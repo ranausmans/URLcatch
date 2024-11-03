@@ -59,7 +59,7 @@ def analyze():
         return jsonify({'error': f'Server error: {str(e)}'}), 500
 
 # Configure Google Generative AI
-GENAI_API_KEY = "AIzaSyDceI3mqdAoSIPkGpYgbttbuJ-YUwoLk3E"
+GENAI_API_KEY = "API KEY GOES HERE"
 genai.configure(api_key=GENAI_API_KEY)
 
 # Set up the Generative AI model configuration
