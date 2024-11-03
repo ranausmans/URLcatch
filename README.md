@@ -42,7 +42,7 @@ Try out the demo here: [URL Catch Demo](https://usman.today/urlcatch)
 
 5. **Access the app**
    - Open your browser
-   - Navigate to `http://localhost:5000`
+   - Navigate to `http://localhost:5010`
 
 ## 🛠️ Technology Stack
 
