@@ -1,0 +1,6 @@
+flask==2.0.1
+requests==2.26.0
+beautifulsoup4==4.9.3
+html2text==2020.1.16
+google-generativeai==0.3.0
+flask-cors==3.0.10 
