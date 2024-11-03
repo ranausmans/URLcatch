@@ -3,8 +3,11 @@
 A powerful web application that analyzes and compares content from multiple URLs using Google's Gemini AI. Perfect for researchers, content creators, and anyone who needs to analyze web content efficiently.
 
 ![URL Analyzer Demo](demo.gif)
+# URL Catch Demo
 
-Demo Here: [https://usman.today/urlcatch](URL Catch Demo)
+## Live Demo
+Try out the demo here: [URL Catch Demo](https://usman.today/urlcatch)
+
 
 ## ✨ Features
 
